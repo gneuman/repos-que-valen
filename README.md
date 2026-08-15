@@ -2,7 +2,7 @@
 
 Curaduría en español de repos open source de IA, agentes y dev tools. No es una lista de lo que tiene más estrellas: es lo que reviso, pruebo y creo que vale tu tiempo, con una ficha en español para cada uno.
 
-**33 repos · 1,049,082 estrellas combinadas · actualizado el 15 de agosto de 2026**
+**33 repos · 1,049,136 estrellas combinadas · actualizado el 15 de agosto de 2026**
 
 Las estrellas y el estado de cada repo se refrescan solos contra la API de GitHub. Si un proyecto lleva 12 meses sin commits, aquí lo vas a ver marcado.
 
@@ -32,7 +32,7 @@ Las estrellas y el estado de cada repo se refrescan solos contra la API de GitHu
 | **[SkillOpt](https://www.gabrielneuman.com/repos/skillopt/?utm_source=github&utm_medium=readme&utm_campaign=repos-que-valen)** | Entrena habilidades naturales para agentes de IA como si fueran redes neuronales — sin tocar pesos del modelo. | Ajuste manual de prompts | 16k★ |
 | **[cli-printing-press](https://www.gabrielneuman.com/repos/cli-printing-press/?utm_source=github&utm_medium=readme&utm_campaign=repos-que-valen)** | Mete cualquier API en un CLI hecho para que un agente lo use, no un humano. | — | 4.5k★ |
 | **[printing-press-library](https://www.gabrielneuman.com/repos/printing-press-library/?utm_source=github&utm_medium=readme&utm_campaign=repos-que-valen)** | El catálogo de CLIs ya impresos por el Printing Press — instalas uno y tu agente queda conectado. | — | 1.9k★ |
-| **[agentcookie](https://www.gabrielneuman.com/repos/agentcookie/?utm_source=github&utm_medium=readme&utm_campaign=repos-que-valen)** | Tu agente corre en una Mac que no es la que usas — agentcookie la mantiene autenticada sola. | Sesiones manuales en máquinas remotas | 750★ |
+| **[agentcookie](https://www.gabrielneuman.com/repos/agentcookie/?utm_source=github&utm_medium=readme&utm_campaign=repos-que-valen)** | Tu agente corre en una Mac que no es la que usas — agentcookie la mantiene autenticada sola. | Sesiones manuales en máquinas remotas | 751★ |
 | **[newsjack](https://www.gabrielneuman.com/repos/newsjack/?utm_source=github&utm_medium=readme&utm_campaign=repos-que-valen)** | Cuando una noticia rompe tienes horas para subirte. Esto le da a tu agente el olfato para no perder la ola. | Monitoreo de medios (Meltwater, Muck Rack) | 627★ |
 
 ## CLAUDE CODE
